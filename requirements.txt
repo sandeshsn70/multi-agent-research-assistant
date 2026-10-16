@@ -15,6 +15,7 @@ langgraph>=0.2.0
 # Groq LLM integration (instead of OpenAI)
 # ==========================================
 langchain-groq>=0.2.0
+langchain-google-genai
 
 # ==========================================
 # Tavily web search
